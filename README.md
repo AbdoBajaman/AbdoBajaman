@@ -1,6 +1,5 @@
-Sure, I can help you create a GitHub profile README for your web development work with PHP and Laravel! Here’s a template tailored to your interests and skills:
 
-```markdown
+
 # 👋 Hi, I’m @AbdoBajaman
 
 Welcome to my GitHub profile! I'm a passionate web developer with a focus on PHP and Laravel. 
