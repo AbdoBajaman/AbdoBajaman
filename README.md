@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on PHP
 
 ## 🌱 I’m currently learning:
 - Advanced Laravel techniques and optimization strategies
-- Modern JavaScript frameworks to complement my PHP skills
+- React JavaScript framework to complement my PHP skills
 - Best practices in API development and integration
 
 ## 💞️ I’m looking to collaborate on:
