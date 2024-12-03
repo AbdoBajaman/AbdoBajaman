@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on PHP
 ## 📫 How to reach me:
 - [Email](mailto:abdo99669@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-1ab97b302/)
-- [Twitter](https://twitter.com/yourhandle)
+- [Twitter](https://x.com/Rendezv76729287)
 
 ## 😄 Pronouns:
 - He/Him
