@@ -6,14 +6,14 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on PHP
 
 ## 👀 I’m interested in:
 - Building dynamic and scalable web applications
-- Exploring the latest features and best practices in Laravel
+- Exploring the latest features and best practices in Laravel and ASP.net core
 - Contributing to open-source projects
 
 ## 🌱 I’m currently learning:
+- RESTful API Design using c# and asp.net core. 
 - Advanced Laravel techniques and optimization strategies
 - React JavaScript framework to complement my PHP skills
-- Best practices in API development and integration
-
+- Best practices in API development and integration, with a focus on ASP.NET Core.
 ## 💞️ I’m looking to collaborate on:
 - Laravel-based projects, especially those involving complex business logic
 - Open-source initiatives and contributions
