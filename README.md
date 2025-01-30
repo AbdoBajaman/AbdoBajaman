@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a focus on PHP
 - Contributing to open-source projects
 
 ## 🌱 I’m currently learning:
-- RESTful API Design using c# and asp.net core. 
+- RESTful API Design using c# and asp.net core + php laravel. 
 - Advanced Laravel techniques and optimization strategies
 - React JavaScript framework to complement my PHP skills
 - Best practices in API development and integration, with a focus on ASP.NET Core.
